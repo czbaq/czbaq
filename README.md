@@ -17,8 +17,7 @@
 ![Postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql)
 ![WEB3](https://img.shields.io/badge/-web3-090909?style=for-the-badge&logo=ethereum)
  
-## 🔗 Socials
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/sybilwave)
+
 
 
 
